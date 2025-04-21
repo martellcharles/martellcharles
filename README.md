@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martellcharles, and my email is martellcharles01@gmail.com
+- 👋 Hi, I’m charlie, and my email is martellcharles01@gmail.com
 - 👀 I’m interested in data science and machine learning.
 
 <!---
